@@ -5,12 +5,12 @@ Inspired by the game Flappy Bird, PROJECT R.O.C.K.T is an endless 2D pixel-art g
 ## ✨ Current Features
 The game in this repository is the alpha version of the PROJECT R.O.C.K.T wherein it contains the fundamental features that can also be found in the game Flappy Bird. Future versions will include more obstacles, different enemies, and boss fights.
 <br></br>
-## How To Play?
+## 👨‍💻 How To Run?
 In order to run the game, you must follow these instructions:
 - Download the files present in this repository.
 - Run the Project R.O.C.K.T - Alpha.exe file
 - Enjoy!
 <br></br>
-Keybinds:
+## ❓ How To Play?
 - 🖱️ LEFT MOUSE BUTTON - Boost Rocket
 - ⌨️ SPACEBAR - Shoot
